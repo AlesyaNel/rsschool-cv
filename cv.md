@@ -10,3 +10,48 @@
 * **[Telegram](https://t.me/AlesyaNel)** 
 
 ## **About me** <h2>
+
+I want to become a front-end developer. On my previous job I worked as a procurement specialist and It has helped me get needed soft skills to became a good developer such as team player and time-managment. I'm responsible, I have analytical mind, love developing and learning new information and keep up with the times.
+
+## **Skills** <h2>
+
+* HTML
+* CSS/SASS
+* JavaScript (Basic)
+* GIT
+
+## **Code Example** <h2>
+
+```const myObject = {
+  key1: true,
+  key5: 10,
+  key3: 'abc',
+  key4: null,
+  key10: NaN,
+}
+
+const keysMyObject = Object.keys(myObject)
+
+keysMyObject.forEach((key) => {
+  if (key === 'key1' || key === 'key3') {
+    console.log(myObject[key])
+  }
+})
+```
+## **Experience** <h2>
+
+LTD Tabak-Invest "Zamok"
+procurement specialist
+
+## **Education** <h2>
+
+* **University:** Belarussian State Economic University
+* **Courses:**
+        * Udemy "JavaScript Basic"
+        * The Rolling Scopes "JavaScript/Front-end. Stage 0" (in progress)
+
+## **English** <h2>
+
+B1+
+I have attending private English lessons with the tutor twice a week.
+
