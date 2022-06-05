@@ -1,7 +1,5 @@
 # **Alesya Nelyub** 
 
-![my photo](C:\Users\User\Desktop\photo_2022-06-05_18-53-20.jpg)
-
 ## **Contacts** 
 
 * **Location:** Minsk, Belarus
