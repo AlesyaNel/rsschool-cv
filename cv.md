@@ -1,6 +1,8 @@
-# **Alesya Nelyub** <h1>
+# **Alesya Nelyub** 
 
-## **Contacts** <h2>
+![my photo](photo_2022-06-05_18-53-20.jpg)
+
+## **Contacts** 
 
 * **Location:** Minsk, Belarus
 * **Phone:** +375 29 319-58-63
@@ -9,20 +11,21 @@
 * **[LinkedIn](https://www.linkedin.com/in/alesya-nelyub-0825ab232/)** 
 * **[Telegram](https://t.me/AlesyaNel)** 
 
-## **About me** <h2>
+## **About me** 
 
 I want to become a front-end developer. On my previous job I worked as a procurement specialist and It has helped me get needed soft skills to became a good developer such as team player and time-managment. I'm responsible, I have analytical mind, love developing and learning new information and keep up with the times.
 
-## **Skills** <h2>
+## **Skills** 
 
 * HTML
 * CSS/SASS
 * JavaScript (Basic)
 * GIT
 
-## **Code Example** <h2>
+## **Code Example** 
 
-```const myObject = {
+```
+const myObject = {
   key1: true,
   key5: 10,
   key3: 'abc',
@@ -38,6 +41,7 @@ keysMyObject.forEach((key) => {
   }
 })
 ```
+
 ## **Experience** <h2>
 
 LTD Tabak-Invest "Zamok"
