@@ -1,6 +1,6 @@
 # **Alesya Nelyub** 
 
-![my photo](photo_2022-06-05_18-53-20.jpg)
+![my photo](C:\Users\User\Desktop\photo_2022-06-05_18-53-20.jpg)
 
 ## **Contacts** 
 
@@ -42,20 +42,21 @@ keysMyObject.forEach((key) => {
 })
 ```
 
-## **Experience** <h2>
+## **Experience** 
 
 LTD Tabak-Invest "Zamok"
 procurement specialist
 
-## **Education** <h2>
+## **Education** 
 
 * **University:** Belarussian State Economic University
 * **Courses:**
-        * Udemy "JavaScript Basic"
-        * The Rolling Scopes "JavaScript/Front-end. Stage 0" (in progress)
+    * Udemy "JavaScript Basic"
+    * The Rolling Scopes "JavaScript/Front-end. Stage 0" (in progress)
 
-## **English** <h2>
+## **Languages** 
 
-B1+
+* **English** B1+
 I have attending private English lessons with the tutor twice a week.
-
+* **Russian** native
+* **Belarussian** native
